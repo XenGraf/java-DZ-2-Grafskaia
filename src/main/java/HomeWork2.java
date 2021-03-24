@@ -14,7 +14,7 @@ public class HomeWork2 {
         String a = in.next();
         System.out.println("Input the number of repetitions");
         int b = in.nextInt();
-        repeatString2(a, b);
+        repeatString2(a, b); // repeatString(a, b);
         System.out.println("Input the year");
         int s = in.nextInt();
         System.out.println("This is the leap year?");
